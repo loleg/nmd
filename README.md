@@ -16,7 +16,7 @@ The following Prototypes were developed at the hackathon:
 
 An interactive story (browser based, using [Twinery](https://twinery.org/)) - introduces our challenge in an immersive way. It was written with the help of an open source LLM derived from Llama 2 by Rubra.ai.
 
-## [Dataset/*](Datasets/)
+## [Data Package](src/branch/main/Datasets)
 
 Data collection (using the [Baserow](https://baserow.io/) platform) was done at the hackathon from several public data sources, in order to create an overview of regions of ongoing armed conflict, and some of the types of technologies being used to perpetrate TFGBV. In addition to our initial outputs, we propose a data [SCRAPING](SCRAPING.md) approach to broaden this effort.
 

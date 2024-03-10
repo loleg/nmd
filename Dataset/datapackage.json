@@ -1,0 +1,104 @@
+{
+  "resources": [
+    {
+      "name": "export-regions",
+      "type": "table",
+      "path": "export - Regions.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8-sig",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer"
+          },
+          {
+            "name": "Name",
+            "type": "string"
+          },
+          {
+            "name": "Key Ops",
+            "type": "boolean"
+          },
+          {
+            "name": "Region",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "export-social-platforms",
+      "type": "table",
+      "path": "export - Social Platforms.csv",
+      "scheme": "file",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8-sig",
+      "schema": {
+        "fields": [
+          {
+            "name": "id",
+            "type": "integer"
+          },
+          {
+            "name": "No.",
+            "type": "integer"
+          },
+          {
+            "name": "Name",
+            "type": "string"
+          },
+          {
+            "name": "Company",
+            "type": "string"
+          },
+          {
+            "name": "Country",
+            "type": "string"
+          },
+          {
+            "name": "Launched",
+            "type": "integer"
+          },
+          {
+            "name": "Monthly active users",
+            "type": "string"
+          },
+          {
+            "name": "Other metrics",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ],
+  "licenses": [
+    {
+      "name": "PDDL",
+      "title": "Open Data Commons Public Domain Dedication and License (PDDL)",
+      "path": "https://opendatacommons.org/licenses/pddl/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Wikipedia",
+      "path": "https://en.wikipedia.org/wiki/List_of_social_platforms_with_at_least_100_million_active_users"
+    },
+    {
+      "title": "ICRC",
+      "path": "https://www.icrc.org/en/where-we-work"
+    }
+  ],
+  "name": "tfgbv-tracking",
+  "homepage": "https://codeberg.org/loleg/tfgbv-tracking",
+  "title": "TFGBV Tracking",
+  "version": "0.1",
+  "created": "2024-03-10T00:00:00",
+  "description": "A hackathon project to support humanitarian work in witnessing and monitoring how armed actors may use technology-facilitated gender-based violence (TFGBV)",
+  "keywords": [
+    "#global #conflict #gender #violence #technology #tfgbv #gbv"
+  ]
+}
