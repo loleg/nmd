@@ -1,0 +1,203 @@
+﻿id,Name,Key Ops,Region
+1,Algeria,False,Africa
+2,Angola,False,Africa
+3,Benin,False,Africa
+4,Botswana,False,Africa
+5,Burkina Faso,False,Africa
+6,Burundi,False,Africa
+7,Cameroon,False,Africa
+8,Cape Verde,False,Africa
+9,Central African Republic,True,Africa
+10,Chad,False,Africa
+11,Comoros,False,Africa
+12,Côte d'Ivoire,False,Africa
+13,Democratic Republic of the Congo,True,Africa
+14,Djibouti,False,Africa
+15,Equatorial Guinea,False,Africa
+16,Eritrea,False,Africa
+17,Ethiopia,False,Africa
+18,Gabon,False,Africa
+19,Gambia,False,Africa
+20,Ghana,False,Africa
+21,Guinea,False,Africa
+22,Guinea-Bissau,False,Africa
+23,Kenya,False,Africa
+24,Lake Chad,True,Africa
+25,Lesotho,False,Africa
+26,Liberia,False,Africa
+27,Libya,True,Africa
+28,Malawi,False,Africa
+29,Mali,True,Africa
+30,Mauritania,False,Africa
+31,Mauritius,False,Africa
+32,Morocco,False,Africa
+33,Mozambique,False,Africa
+34,Namibia,False,Africa
+35,Niger,False,Africa
+36,Nigeria,True,Africa
+37,Republic of the Congo,False,Africa
+38,Rwanda,False,Africa
+39,Sahel,True,Africa
+40,Sao Tome and Principe,False,Africa
+41,Senegal,False,Africa
+42,Seychelles,False,Africa
+43,Sierra Leone,False,Africa
+44,Somalia,True,Africa
+45,South Africa,False,Africa
+46,South Sudan,True,Africa
+47,Sudan,True,Africa
+48,Swaziland,False,Africa
+49,Tanzania,False,Africa
+51,Togo,False,Africa
+52,Tunisia,False,Africa
+53,Uganda,False,Africa
+54,Ukraine,True,Europe & Central Asia
+55,Western Sahara,False,Africa
+56,Zambia,False,Africa
+57,Zimbabwe,False,Africa
+61,Afghanistan,True,Asia & Pacific
+62,Australia,False,Asia & Pacific
+63,Bangladesh,True,Asia & Pacific
+64,Bhutan,False,Asia & Pacific
+65,Brunei Darussalam,False,Asia & Pacific
+66,Cambodia,False,Asia & Pacific
+67,China,False,Asia & Pacific
+68,Cook Islands,False,Asia & Pacific
+69,Democratic People's Republic of Korea,False,Asia & Pacific
+70,Federated States of Micronesia,False,Asia & Pacific
+71,Fiji,False,Asia & Pacific
+72,India,False,Asia & Pacific
+73,Indonesia,False,Asia & Pacific
+74,Japan,False,Asia & Pacific
+75,Kiribati,False,Asia & Pacific
+76,Laos,False,Asia & Pacific
+77,Malaysia,False,Asia & Pacific
+78,Maldives,False,Asia & Pacific
+79,Marshall Islands,False,Asia & Pacific
+80,Mongolia,False,Asia & Pacific
+81,Myanmar,True,Asia & Pacific
+82,Nauru,False,Asia & Pacific
+83,Nepal,False,Asia & Pacific
+84,New Zealand,False,Asia & Pacific
+85,Niue,False,Asia & Pacific
+86,Pakistan,False,Asia & Pacific
+87,Palau,False,Asia & Pacific
+88,Papua New Guinea,False,Asia & Pacific
+89,Philippines,True,Asia & Pacific
+90,Republic of Korea,False,Asia & Pacific
+91,Samoa,False,Asia & Pacific
+92,Singapore,False,Asia & Pacific
+93,Solomon Islands,False,Asia & Pacific
+94,Sri Lanka,False,Asia & Pacific
+95,Thailand,False,Asia & Pacific
+96,Timor-Leste,False,Asia & Pacific
+97,Tonga,False,Asia & Pacific
+98,Tuvalu,False,Asia & Pacific
+99,Vanuatu,False,Asia & Pacific
+100,Viet Nam,False,Asia & Pacific
+104,Albania,False,Europe & Central Asia
+105,Andorra,False,Europe & Central Asia
+106,Armenia,False,Europe & Central Asia
+107,Austria,False,Europe & Central Asia
+108,Azerbaijan,False,Europe & Central Asia
+109,Belarus,False,Europe & Central Asia
+110,Belgium,False,Europe & Central Asia
+111,Bosnia and Herzegovina,False,Europe & Central Asia
+112,Bulgaria,False,Europe & Central Asia
+113,Croatia,False,Europe & Central Asia
+114,Cyprus,False,Europe & Central Asia
+115,Czech Republic,False,Europe & Central Asia
+116,Denmark,False,Europe & Central Asia
+117,Estonia,False,Europe & Central Asia
+118,Finland,False,Europe & Central Asia
+119,France,False,Europe & Central Asia
+120,Georgia,False,Europe & Central Asia
+121,Germany,False,Europe & Central Asia
+122,Greece,False,Europe & Central Asia
+123,Holy See,False,Europe & Central Asia
+124,Hungary,False,Europe & Central Asia
+125,Iceland,False,Europe & Central Asia
+126,Ireland,False,Europe & Central Asia
+127,Italy,False,Europe & Central Asia
+128,Kazakhstan,False,Europe & Central Asia
+129,Kosovo,False,Europe & Central Asia
+130,Kyrgyzstan,False,Europe & Central Asia
+131,Latvia,False,Europe & Central Asia
+132,Liechtenstein,False,Europe & Central Asia
+133,Lithuania,False,Europe & Central Asia
+134,Luxembourg,False,Europe & Central Asia
+135,Malta,False,Europe & Central Asia
+136,Monaco,False,Europe & Central Asia
+137,Montenegro,False,Europe & Central Asia
+138,Netherlands,False,Europe & Central Asia
+139,North Macedonia,False,Europe & Central Asia
+140,Norway,False,Europe & Central Asia
+141,Poland,False,Europe & Central Asia
+142,Portugal,False,Europe & Central Asia
+143,Republic of Moldova,False,Europe & Central Asia
+144,Romania,False,Europe & Central Asia
+145,Russia,False,Europe & Central Asia
+146,San Marino,False,Europe & Central Asia
+147,Serbia,False,Europe & Central Asia
+148,Slovakia,False,Europe & Central Asia
+149,Slovenia,False,Europe & Central Asia
+150,Spain,False,Europe & Central Asia
+151,Sweden,False,Europe & Central Asia
+152,Switzerland,False,Europe & Central Asia
+153,Tajikistan,False,Europe & Central Asia
+154,Türkiye,False,Europe & Central Asia
+155,Turkmenistan,False,Europe & Central Asia
+156,United Kingdom,False,Europe & Central Asia
+157,Uzbekistan,False,Europe & Central Asia
+161,Bahrain,False,Middle East
+162,Egypt,False,Middle East
+163,Iran,False,Middle East
+164,Iraq,True,Middle East
+165,Israel,True,Middle East
+166,Jordan,True,Middle East
+167,Kuwait,False,Middle East
+168,Lebanon,True,Middle East
+169,Oman,False,Middle East
+170,Qatar,False,Middle East
+171,Saudi Arabia,False,Middle East
+172,Syria,True,Middle East
+173,United Arab Emirates,False,Middle East
+174,Yemen,True,Middle East
+178,Antigua and Barbuda,False,The Americas
+179,Argentina,False,The Americas
+180,Aruba,False,The Americas
+181,Bahamas,False,The Americas
+182,Barbados,False,The Americas
+183,Belize,False,The Americas
+184,Bolivia,False,The Americas
+185,Bonaire,False,The Americas
+186,Brazil,False,The Americas
+187,Canada,False,The Americas
+188,Chile,False,The Americas
+189,Colombia,True,The Americas
+190,Costa Rica,False,The Americas
+191,Cuba,False,The Americas
+192,Curaçao,False,The Americas
+193,Dominica,False,The Americas
+194,Dominican Republic,False,The Americas
+195,Ecuador,False,The Americas
+196,El Salvador,False,The Americas
+197,Grenada,False,The Americas
+198,Guatemala,False,The Americas
+199,Guyana,False,The Americas
+200,Haiti,False,The Americas
+201,Honduras,False,The Americas
+202,Jamaica,False,The Americas
+203,Mexico,True,The Americas
+204,Nicaragua,False,The Americas
+205,Panama,False,The Americas
+206,Paraguay,False,The Americas
+207,Peru,False,The Americas
+208,Saint Kitts and Nevis,False,The Americas
+209,Saint Lucia,False,The Americas
+210,Saint Vincent and the Grenadines,False,The Americas
+211,Suriname,False,The Americas
+212,Trinidad and Tobago,False,The Americas
+213,United States of America,False,The Americas
+214,Uruguay,False,The Americas
+215,Venezuela,False,The Americas

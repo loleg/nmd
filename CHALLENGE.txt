@@ -1,0 +1,38 @@
+EPFL Peacetech Hackathon 2024
+
+Category: Counteracting GBV and Violence against Vulnerable Minorities
+
+ICRC Challenge Submission: Technology and Sexual Violence in Armed Conflict
+
+1. Challenge title (in the form of a clear, explicit question or sentence)
+-------------------------------------------
+
+How is technology being utilized by armed actors to perpetrate sexual violence during armed conflict (e.g., types of technologies and digital platforms used, by whom, where, when, and how)?
+
+2. Challenge description (context, why this topic is an urgent challenge to tackle)
+-------------------------------------------
+
+In recent years, humanitarian actors have increasingly witnessed how armed actors may use technology-facilitated gender-based violence (TFGBV) as part of broader patterns of strategic, opportunistic, or simply tolerated sexual violence (e.g., image-based abuse, cyberstalking, and impersonation). In parallel, digital platforms may also be used by community members and other private citizens to spread misinformation, disinformation, and hate speech related to sexual violence while also potentially placing victims/survivors’ privacy and safety at risk (e.g., gendered disinformation, gendered trolling, and doxing). While such events may originate online, they often rapidly move into offline spaces resulting in significant economic, psychological, and physical consequences for victims/survivors. 
+
+For example:
+
+Local civil society actors may post victims/survivors photos and personal data online especially on WhatsApp groups or their private messaging threads as well as Facebook and other social media networks. Often the stated intent is to seek urgent health or livelihood support for the victim/survivor from humanitarian organizations, authorities, or community leaders. In most cases, however, the victims/survivors have not given their informed consent or may not even be aware they personal details have been exposed online
+
+Armed actors may use WhatsApp, Facebook, and other online networks to post fake job advertisements in territories under their control, targeting women and girls in urban communities where there are limited economic opportunities. Socioeconomically vulnerable women who respond to these adverts are promised legitimate job opportunities in line with the advert during all exchanges online. After arriving in person, however, they may be forced into sex work or to become the “girlfriend” of a specific leader of the armed group (i.e., sexual slavery).
+
+Despite the increased prevalence of TFGBV in conflict settings, there are significant gaps in the evidence base due to a lack of standardized definitions and data collection methodologies, societal stigma, and access to relevant services. Without such an evidence base, humanitarian actors are unable to adequately identify and mitigate digital risks when designing programs to address sexual and gender-based violence.
+
+3. What are you expecting from the hackathon?
+---------------------------------------------
+To help address some of these issues, Hackathon participants working on this challenge are asked to:
+- Identify the types of technology currently being used by armed actors in armed conflict to perpetrate TFGBV
+- Identify where these types of technologies are most frequently utilized (e.g., certain region, countries, and/or types of armed conflicts)
+- Identify who is being most impacted by this type of TFGBV – Are there specific groups of people who are more vulnerable than others? Does it depend on age, nationality, gender, etc.?
+- BONUS: Based on the above, recommend specific measures humanitarian actors can undertake to address these digital risks when preventing, mitigating, and responding to sexual and gender-based violence in conflict-affected areas
+
+4. List of skills/competencies you'd like to see brought together to work on this challenge
+---------------------------------------------------------
+- Adaptive competencies (problem analysis, theoretical-practical knowledge, socioemotional adaptability)
+- Data analysis, design thinking, solution engineering, machine learning 
+- Previous experience related to sexual and gender-based violence (if possible)
+

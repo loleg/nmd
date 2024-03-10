@@ -1,0 +1,143 @@
+:: StoryTitle
+Not my Daughter
+
+
+:: StoryData
+{
+  "ifid": "FFCE8FC3-F04A-4421-A7F6-442E302ADD89",
+  "format": "Harlowe",
+  "format-version": "3.3.8",
+  "start": "Intro",
+  "zoom": 0.6
+}
+
+
+:: A crisp morning {"position":"275,375","size":"100,100"}
+It is a crisp morning in Dar Gyi Jar, as Ata wakes up for his morning routine. He is a simple man of modest means, but he is caught up in a terrible spiral of ethnic hate with cycles of violence that span generations. Mobile phones, social media, and artificial intelligence have now become part of a technological arsenal, reigniting the cycle of violence in the region.
+
+[[Continue->One Day Online]]
+
+
+:: About Project {"position":"100,200","size":"100,100"}
+This is a prototype storytelling project, developed at the PeaceTech Hackathon in March 2024 with collaboration of a small but diverse group of people who are engaged in humanitarian project and digital media. Our goal is to raise awareness, and support Digital Literacy for Prevention through interactive media. This is a storybook made with the open source Twine (twinery.org) tool, that could be translated or used in various formats.
+
+[[Back to intro->Intro]]
+
+
+:: About Rohingya {"position":"100,325","size":"100,100"}
+The Rohingya people are a Muslim ethnic minority group who have lived for centuries in predominantly Buddhist Myanmar - despite this, the Rohingya are not recognized as an official ethnic group and are the world’s largest stateless population.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/4-year-old_Anowar_pictured_with_his_mum_and_brother_after_being_treated_for_diphtheria_by_the_UK%27s_Emergency_Medical_Team_in_Kutupalong%2C_Bangladesh_%2828040394749%29.jpg/800px-thumbnail.jpg?20181230171722" width="100%">
+Source: <a href="https://en.wikipedia.org/wiki/Rohingya_people" target="_blank">Wikipedia</a>
+
+Back to [[Intro]] 
+
+
+:: Ata's Story {"position":"275,275","size":"100,100"}
+In the small village where Rohingya families lived in Myanmar, there was a young man named Ata Tun. His opportunities to develop were limited due to his lack of citizenship status, which meant he could not attend school or work legally. Political instability and lack of economic prospects led him down a dark path, that he would later come to regret.
+
+<img src="https://hackmd.io/_uploads/BJeQzeQiap.jpg" width="100%">
+
+[[Continue->A crisp morning]]
+
+
+:: Awareness {"position":"625,575","size":"100,100"}
+The situation faced by Huma and other victims of Ata Tun's exploitative behavior highlights the need for increased awareness about online safety and the potential dangers of forming connections through digital platforms, especially for marginalized communities such as the Rohingya people. 
+
+<img src="https://hackmd.io/_uploads/r1XflQiT6.jpg" width="100%">
+
+[[Continue->Conclusion]]
+
+
+:: Collaboration {"position":"625,875","size":"100,100"}
+Additionally, law enforcement agencies should collaborate with international partners to track down perpetrators like Ata Tun and bring them to justice. Only through combined efforts can we protect vulnerable groups like the Rohingya from falling prey to predators who seek to exploit their suffering for personal gain.
+
+Thank you for your attention!
+
+<a href="https://icrc.org" target="_blank">How to support the ICRC</a>
+
+[[Start the story again->Start]]
+
+[[Back to the introduction->Intro]]
+
+
+:: Conclusion {"position":"625,750","size":"100,100"}
+It is crucial for organizations working with refugees and displaced populations to educate individuals about safe internet usage and the importance of maintaining privacy while engaging in online interactions. 
+
+<img src="https://hackmd.io/_uploads/BJeQzeQiap.jpg" width="100%">
+
+[[Continue->Collaboration]]
+
+
+:: First Target {"position":"450,625","size":"100,100"}
+Ata Tun's first victim was a young girl named Huma. She had dreams of going to school but knew the odds were stacked against her. When she met Ata online, she saw him as an opportunity for friendship and support. Little did she know that he would use their relationship to exploit her in unimaginable ways.
+
+[[Read Huma's Story->Huma's Story]]
+
+[[Start Again->Start]]
+
+
+:: Grooming {"position":"625,475","size":"100,100"}
+Using various digital platforms and tools, Ata Tun began to groom Huma and other young Rohingya women by building relationships based on false promises of love, support, and companionship. He used these connections to coerce them into performing explicit acts, which he recorded and shared without their consent. This not only caused immense psychological harm but also exposed them to further risks, including blackmail and extortion attempts from others who gained access to the content.
+
+<img src="https://hackmd.io/_uploads/BymzxQo6a.jpg" width="100%">
+
+[[Continue->Awareness]]
+
+
+:: Huma meets Ata {"position":"625,375","size":"100,100"}
+When Huma first encountered Ata Tun online, she saw it as an opportunity to form a connection with someone who could potentially provide emotional support and understanding. However, little did she know that Ata Tun would manipulate this trust to take advantage of her vulnerability.
+
+<img src="https://hackmd.io/_uploads/rkgXzemj6a.jpg" width="100%">
+
+
+[[Continue->Grooming]]
+
+
+:: Huma's Story {"position":"625,275","size":"100,100"}
+Huma, like many other Rohingya girls, faced numerous challenges growing up in a community where access to education was limited and opportunities for personal growth were scarce. As a Muslim ethnic minority without citizenship or proper legal protections, she was particularly susceptible to exploitation and abuse.
+
+<img src="https://hackmd.io/_uploads/HkQflQsaa.jpg" width="100%">
+
+[[Continue->Huma meets Ata]]
+
+
+:: Intro {"position":"100,50","size":"100,100"}
+
+- [[What is this project?->About Project]]
+- [[About the Rohingya->About Rohingya]] 
+- ''[[Open the storybook->Start]]''
+
+
+
+:: Network Ops {"position":"275,575","size":"100,100"}
+The network operated like a well-oiled machine, with members sharing information about vulnerable people they encountered daily. They would use social engineering tactics, such as pretending to be someone else or manipulating emotions, to gain trust and exploit their victims. Ata Tun quickly became adept at this craft, using his charm and good looks to lure unsuspecting women into a false sense of security.
+
+[[Continue->Target Girls]]
+
+
+:: One Day Online {"position":"275,475","size":"100,100"}
+One day, while scrolling through social media, Ata stumbled upon an underground network that used technology for nefarious purposes. He was intrigued by the idea of using his smartphone as a tool to exploit others and make some money in the process. So he decided to join this secretive group.
+
+<img src="https://hackmd.io/_uploads/S1lXGlXo6T.jpg" width="100%">
+
+[[Continue->Network Ops]]
+
+
+:: Start {"position":"450,150","size":"100,100"}
+<img src="https://hackmd.io/_uploads/r1XflQiT6.jpg" width="100%">
+
+''[[Read Ata's story->Ata's Story]]''
+
+''[[Read Huma's story->Huma's Story]]''
+
+[[Back to the introduction->Intro]]
+
+
+
+:: Target Girls {"position":"275,675","size":"100,100"}
+He began targeting Rohingya girls who were even more vulnerable due to the lack of opportunities available to them in their community. The isolation they felt made it easier for Ata Tun to manipulate them, convincing them that he was someone they could trust and confide in. With indoctrination from a local gang, the village boy Ata quickly became part of a mob with a digital stick financed by the region's militia.
+
+<img src="https://hackmd.io/_uploads/BkmMgQj66.jpg" width="100%">
+
+[[Continue->First Target]]
